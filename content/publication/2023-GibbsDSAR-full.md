@@ -8,12 +8,12 @@ math = true
 publication_types = ["2"]
 publication = "In *Journal of Applied Statistics*"
 publication_short = ""
-selected = false
+selected = true
 title = "Full Bayesian analysis of double seasonal autoregressive models with real applications"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = ""
+url_project = "https://doi.org/10.1080/02664763.2023.2211754"
 url_slides = ""
 url_video = ""
 
