@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Colman | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/author/alan-colman/</link>
+      <atom:link href="https://aymanamin.rbind.io/author/alan-colman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan Colman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Fri, 12 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Alan Colman</title>
+      <link>https://aymanamin.rbind.io/author/alan-colman/</link>
+    </image>
+    
+    <item>
+      <title>An approach to software reliability prediction based on time series modeling</title>
+      <link>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automated approach to forecasting QoS attributes based on linear and non-linear time series modeling</title>
+      <link>https://aymanamin.rbind.io/publication/2012-ase2012/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-ase2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to forecasting QoS attributes of web services based on ARIMA and GARCH models</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icws2012/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-icws2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Automated Control Charts for the Runtime Evaluation of QoS Attributes</title>
+      <link>https://aymanamin.rbind.io/publication/2011-hase2011/</link>
+      <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2011-hase2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Based Forecasting Methods</title>
+      <link>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

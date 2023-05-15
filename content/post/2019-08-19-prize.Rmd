@@ -1,0 +1,20 @@
+---
+title: ' 2018 International Prize in Statistics is awarded to Bradley Efron' 
+author: Ayman Amin
+date: '2019-08-19'
+categories:
+  - Islamic Issues 
+tags:
+  - Statistics
+  - Science
+  - Research
+summary:   International Prize in Statistics
+slug: Statistics prize
+---
+
+Bradley Efron, at Stanford University, has won the US$80,000 “2018 International Prize in Statistics” for his 1970s work on a method for inferring uncertainty in data, by pioneering the ‘bootstrap’ method for measuring the reliability of small data samples, which are now commonly used across many scientific disciplines.
+
+
+```{r echo=FALSE}
+knitr::include_graphics('/img/posts/2019-08-19-prize/prize.jpg')
+```

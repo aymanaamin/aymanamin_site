@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El-Houssainy A.Rady | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/author/el-houssainy-a.rady/</link>
+      <atom:link href="https://aymanamin.rbind.io/author/el-houssainy-a.rady/index.xml" rel="self" type="application/rss+xml" />
+    <description>El-Houssainy A.Rady</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>El-Houssainy A.Rady</title>
+      <link>https://aymanamin.rbind.io/author/el-houssainy-a.rady/</link>
+    </image>
+    
+    <item>
+      <title>Chaotic Analysis of Egyptian Stock Market with the Application to EGX 30 price Index</title>
+      <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Nonlinear Structure in Egyptian Stock Market Indices</title>
+      <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

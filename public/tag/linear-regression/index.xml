@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Regression | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/tag/linear-regression/</link>
+      <atom:link href="https://aymanamin.rbind.io/tag/linear-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear Regression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Linear Regression</title>
+      <link>https://aymanamin.rbind.io/tag/linear-regression/</link>
+    </image>
+    
+    <item>
+      <title> الرقم القياسي لأسعار المساكن: تجارب دولية ومنهجية للتطبيق في مصر</title>
+      <link>https://aymanamin.rbind.io/post/house-price-index/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/house-price-index/</guid>
+      <description>
+&lt;link href=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;style&gt;
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+منذ عشر سنوات مع بداية 2008، كنت أفكر في بناء مؤشر لقياس أسعار المساكن والعقارات في مصر، ووقتها فعلاً قرأت في الموضوع وحاولت فيه لأكثر من سنة - مع مساعدة بعض الباحثين الأكثر مني خبرة - لأقتراح “رقم قياسي لأسعار المساكن” وهو عبارة عن “مؤشر مركب يقيس متوسط تغيرات أسعار مبيعات المساكن والعقارات المختلفة التي تم تداولها في السوق خلال فترة معينة، وهذه الفترة قد تكون شهر أو ربع سنة أو تزيد لسنة. كما أنه يعكس الخصائص المختلفة لهذه المساكن والعقارات والتي تحدد أسعارها في السوق”، ولكن الحقيقة لم أنجح في هذا لأنه عمل يحتاج إلي فريق متكامل متعدد الخبرات، ووقتها أنشغلت في الدراسات العليا وتركت الموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+وفعلاً مازلت أجد أن هذا الرقم القياسي لأسعار المساكن مهم جداً للبلد ككل، وخاصةً لكل من يهتم بالتخطيط العمراني أو سوق العقارات واستثماراتها وبشكل خاص في المدن الجديدة.
+أظن أن الباحثين المهتمين بالتخطيط العمراني وعلاقته بسوق العقارات واستثماراتها في مصر يمكن لهم أن يقوموا بهذا المشروع بالتعاون مع الحكومة ومن خلال التقديم علي دعم مالي من منظمات دولية ذات إهتمام بالموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+كل بحثي في موضوع الرقم القياسي لأسعار المساكن ومنهجية تطبيقه في مصر وضعته في تقرير متكامل، لعله يجد من يستفيد به ويبني عليه. بسبب مرور قرابة عشر سنوات علي فكرته فهو بحاجة للتحديث. يمكن تحميل التقرير من &lt;a href = &#34;https://www.researchgate.net/publication/322452580_House_Price_Index_International_Experiences_and_A_Methodology_for_Application_in_Egypt_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> المشكلة السكانية في مصر</title>
+      <link>https://aymanamin.rbind.io/post/population-problem-inegypt/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/population-problem-inegypt/</guid>
+      <description>
+&lt;link href=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+h1.title {
+   direction: rtl;
+}
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+بمناسبة مبادرة “شباب جامعات مصر” التي تدشنها الآن وزارة الصحة والسكان للحد من الزيادة السكانية، أذكر عندما كنت حديث التخرج عملت كباحث في وحدة متابعة وتقييم الخطة الإستراتيجية للسكان في مصر، ووقتها كنت مجرد باحث مساعد لمجموعة من خبراء السكان (من بينهم الدكتورة فاطمة الزهراء جيل)، وقمنا بدراسة مهمة عن تقدير المستهدفات الكمية لأهم مؤشرات المتابعة والتقييم للبرنامج السكاني في مصر، وبناءاً علي نتائج هذه الدراسة قدمت ورقة بحثية في “المؤتمر الإقليمي الأول: مواجهة المشكلة السكانية في صعيد مصر”، والذي عُقد في جامعة أسيوط 1-2 أبريل 2009. ما ذكَرني تحديداً بهذه الورقة، هو أني كنت أرتب المجلدات القديمة في مكتبتي فوجدت كتاب المؤتمر، ففتحته وبدأت أقرأ هذه الورقة البحثية التي مر علي ما بها من نتائج وإسقاطات سكانية أكثر من 10 سنوات. الحقيقة صُدمت، لأن كل ما بها من إسقاطات سكانية أبعد ما يكون عن الواقع الحالي. فعلي سبيل المثال في هذه الورقة كان من المتوقع إذا استمر وضع الإنجاب علي ما هو عليه من معدل انخفاض مشاهد خلال الفترة (1995- 2005 )، فهذا سوف يؤدى إلى الوصول إلى معدل إنجاب كلِّى قدره (2.5 طفل لكل سيدة عام 2015). وسبب الصدمة أن نتائج المسح السكاني الصحي في 2014 أفادت أن معدل الإنجاب الكلِّى بلغ تقريبا 3.5 طفل لكل سيدة مقارنةً بـتقريبا 3.0 طفل لكل سيدة في عام 2008.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+أظن أن المشكلة السكانية في مصر فعلاً تحتاج طريقة تفكيرجديدة ومختلفة عن السابق حتي نصل لنتائج حقيقية في إتجاه تحسين الوضع السكاني في مصر، وبناءاً علي نتائج تعداد السكان 2017 يجب ان يكون هناك إتجاه قوي نحو تغيير أدواتنا في التعامل مع هذه المشكلة الحقيقية في مصر.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+الورقة مرفقة لمن يهتم بالقضية السكانية والبرنامج السكاني في مصر، كذلك تجدر الإشارة أن هذه الورقة يمكن تحديثها في جانبين مهمين: الجانب الأول هو دراسة الوضع السكاني الراهن ومحاولة معرفة الأسباب الحقيقية للتغير غير المتوقع في إتجاهات الانجاب في أخر عشر سنوات؛ أم الجانب الثاني فهو إستخدام بيانات المسح السكاني الصحي 2014 وبيانات تعداد السكان 2017 لوضع سيناريوهات مختلفة لعمل تقديرات سكانية حتي عام 2050 لإستخدامها في الجوانب المختلفة لخطة التنمية المستدامة في مصر. للتحديث. يمكن تحميل الورقة كاملة من &lt;a href = &#34;https://www.researchgate.net/publication/322448040_Estimating_the_quantitative_values_for_the_monitoring_and_evaluation_indicators_of_the_population_problem_2005-2017_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

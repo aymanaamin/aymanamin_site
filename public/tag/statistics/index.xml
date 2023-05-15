@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/tag/statistics/</link>
+      <atom:link href="https://aymanamin.rbind.io/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistics</title>
+      <link>https://aymanamin.rbind.io/tag/statistics/</link>
+    </image>
+    
+    <item>
+      <title> 2018 International Prize in Statistics is awarded to Bradley Efron</title>
+      <link>https://aymanamin.rbind.io/post/statistics-prize/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/statistics-prize/</guid>
+      <description>
+
+
+&lt;p&gt;Bradley Efron, at Stanford University, has won the US$80,000 “2018 International Prize in Statistics” for his 1970s work on a method for inferring uncertainty in data, by pioneering the ‘bootstrap’ method for measuring the reliability of small data samples, which are now commonly used across many scientific disciplines.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-19-prize/prize.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> أحد أكبر المؤتمرات الاحصائية في العالم::JSM2019</title>
+      <link>https://aymanamin.rbind.io/post/statistics-confereence/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/statistics-confereence/</guid>
+      <description>
+
+
+&lt;p align=&#34;right&#34;&gt;
+عُقد بامريكا في نهاية يوليو الماضي مؤتمر JSM– JSM2019 اختصاراً لــ&#34; Joint Statistical Meetings&#34; والتي يمكن ترجمتها &#34; الاجتماعات الإحصائية المشتركة&#34; - وهو يعد واحد من اكبر المؤتمرات في العالم حيث زاد الحضور عن 6,500 من 52 دولة وتناولت فعاليات هذا المؤتمر الجوانب المختلفة لعلم الاحصاء، فبرنامج المؤتمر فقط قارب من 250 صفحة، الاستفادة من هذا المؤتمر التعرف علي الموضوعات الحديثة لعلم الاحصاء وتطبيقاتها المختلفة، فعلي المستوي الشخصي قمت بتصفح برنامج المؤتمر والبحث عن النقاط البحثية ذات الاهمية من وجهة نظري. مرفق رابط البرنامج.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2019/pdfs/JSM2019-SessionBooklet.pdf&#34; class=&#34;uri&#34;&gt;https://ww2.amstat.org/meetings/jsm/2019/pdfs/JSM2019-SessionBooklet.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-17-jsm/jsm.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

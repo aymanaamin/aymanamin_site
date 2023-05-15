@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/publication-type/1/</link>
+      <atom:link href="https://aymanamin.rbind.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://aymanamin.rbind.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Proposed Open-Circuit Faults Detection Using Control Charts Technique</title>
+      <link>https://aymanamin.rbind.io/publication/2019-opencircuitfaults/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-opencircuitfaults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaotic Analysis of Egyptian Stock Market with the Application to EGX 30 price Index</title>
+      <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Nonlinear Structure in Egyptian Stock Market Indices</title>
+      <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Look at Bayesian Identification of Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationma/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Double Seasonal Autoregressive Models: A Bayesian Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2017-identificationdsar/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-identificationdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Double Seasonal ARMA Models</title>
+      <link>https://aymanamin.rbind.io/publication/2017-gibbsdsarma/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-gibbsdsarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite Indicator to Measure Multidimensional Spatial Inequality in Cairo</title>
+      <link>https://aymanamin.rbind.io/publication/2016-inequality/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2016-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Double Seasonal Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2015-gibbsdsma/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
+      <link>https://aymanamin.rbind.io/publication/2014-reactivevsproactive/</link>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2014-reactivevsproactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automated approach to forecasting QoS attributes based on linear and non-linear time series modeling</title>
+      <link>https://aymanamin.rbind.io/publication/2012-ase2012/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-ase2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to forecasting QoS attributes of web services based on ARIMA and GARCH models</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icws2012/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-icws2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust archeopterix: Architecture optimization of embedded systems under uncertainty</title>
+      <link>https://aymanamin.rbind.io/publication/2012-workshop/</link>
+      <pubDate>Sat, 09 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Automated Control Charts for the Runtime Evaluation of QoS Attributes</title>
+      <link>https://aymanamin.rbind.io/publication/2011-hase2011/</link>
+      <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2011-hase2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs sampling for SARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</link>
+      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Seasonal ARMA Models: A Gibbs Sampling Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2009-iccxs/</link>
+      <pubDate>Sat, 26 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-iccxs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the quantitative values for the monitoring and evaluation indicators of the population problem (2005-2017)</title>
+      <link>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</link>
+      <pubDate>Sun, 26 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

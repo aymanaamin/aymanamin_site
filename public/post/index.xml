@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/post/</link>
+      <atom:link href="https://aymanamin.rbind.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://aymanamin.rbind.io/post/</link>
+    </image>
+    
+    <item>
+      <title> الطلاق والأمية في مصر: من واقع بيانات تعداد السكان - 2017</title>
+      <link>https://aymanamin.rbind.io/post/divorce-illiteracy-inegypt/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/divorce-illiteracy-inegypt/</guid>
+      <description>
+
+
+&lt;p align=&#34;right&#34;&gt;
+بعد صدور البيانات الأولية لتعداد السكان 2017، حاول العديد من الباحثين استخدام هذا الكنز المعرفي لدراسة العديد من القضايا القومية في مصر، مثل الأمية والطلاق وغيرهما. وكمثل الكثير من الباحثين، حاولت الاستفادة من هذه البيانات لفهم الواقع الذي نعيشه، وبالرغم من ان هذه البيانات قد تحتوي علي الكثير من المعلومات والعلاقات الهامة - والمثيرة أحياناً - إلا أن قضية الطلاق في مصر كانت من أكثر القضايا نقاشاً علي مستوي الرأي العام.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+قرأت بعض التقارير عن الطلاق التي كُتبت من قبل هيئات او مراكز بحثية بناءً علي نتائج تحليل بيانات التعداد او تقارير الزواج والطلاق السنوية التي يصدرها الجهاز المركزي للتعبئة العامة والاحصاء، وللاسف أغلب هذه التقارير غير متعمقة في تحليل البيانات ولم تتناول الجوانب المعقدة لقضايا الزواج والطلاق في مصر، والتي لها أبعاد إجتماعية وعرفية ودينية متشابكة. بل بعض هذه التقارير التي تناولت قضية الطلاق وصلت لاستنتاجات قد تكون خاطئة وعكس ما تتحدث به البيانات، فمثلا احد هذه التقارير استنتج أن علاقة الطلاق بالأمية (أو عدم الالتحاق بالتعليم) في مصر علاقة طردية، وعليه عدم الالتحاق بالتعليم يؤدي الي ارتفاع الطلاق وتفكك الاسرة المصرية. لا ينكر أحد خطورة الأمية، ولكن الحقيقة هذا الاستنتاج خاطئ تماما، بل ان بيانات تعداد 2017 تشير الي أن هناك علاقة ارتباط عكسية قوية (0.71-) بين نسبة الأمية (10 سنوات فأكثر) ونسبة الطلاق (18 سنة فأكثر). لابد من ملاحظة أني هنا أقول علاقة ارتباط، وليس علاقة سببية!
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+لكي نحصل علي استنتاجات صحيحة، لابد من استخدام اساليب احصائية سليمة ومتعمقة، كفانا إستخدام نسب ومتوسطات ورسومات عامة، ثم نقفذ الي إستنتاجات (عامة) لا علاقة لها بما لدينا من كنز معرفي مخبئ في قواعد البيانات يبحث عن من يستخرجه.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+أترككم مع بعض الرسومات التي تؤكد ما أقوله عن علاقة الارتباط العكسية بين نسبة الأمية ونسبة الطلاق في مصر، ولاحقا أفصل جوانب حساباتها وأهم استنتاجاتها.
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-30-divorce-inEgypt/corr.png&#34; /&gt;&lt;!-- --&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-30-divorce-inEgypt/div.png&#34; /&gt;&lt;!-- --&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-30-divorce-inEgypt/illit.png&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> 2018 International Prize in Statistics is awarded to Bradley Efron</title>
+      <link>https://aymanamin.rbind.io/post/statistics-prize/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/statistics-prize/</guid>
+      <description>
+
+
+&lt;p&gt;Bradley Efron, at Stanford University, has won the US$80,000 “2018 International Prize in Statistics” for his 1970s work on a method for inferring uncertainty in data, by pioneering the ‘bootstrap’ method for measuring the reliability of small data samples, which are now commonly used across many scientific disciplines.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-19-prize/prize.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> أحد أكبر المؤتمرات الاحصائية في العالم::JSM2019</title>
+      <link>https://aymanamin.rbind.io/post/statistics-confereence/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/statistics-confereence/</guid>
+      <description>
+
+
+&lt;p align=&#34;right&#34;&gt;
+عُقد بامريكا في نهاية يوليو الماضي مؤتمر JSM– JSM2019 اختصاراً لــ&#34; Joint Statistical Meetings&#34; والتي يمكن ترجمتها &#34; الاجتماعات الإحصائية المشتركة&#34; - وهو يعد واحد من اكبر المؤتمرات في العالم حيث زاد الحضور عن 6,500 من 52 دولة وتناولت فعاليات هذا المؤتمر الجوانب المختلفة لعلم الاحصاء، فبرنامج المؤتمر فقط قارب من 250 صفحة، الاستفادة من هذا المؤتمر التعرف علي الموضوعات الحديثة لعلم الاحصاء وتطبيقاتها المختلفة، فعلي المستوي الشخصي قمت بتصفح برنامج المؤتمر والبحث عن النقاط البحثية ذات الاهمية من وجهة نظري. مرفق رابط البرنامج.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2019/pdfs/JSM2019-SessionBooklet.pdf&#34; class=&#34;uri&#34;&gt;https://ww2.amstat.org/meetings/jsm/2019/pdfs/JSM2019-SessionBooklet.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-17-jsm/jsm.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> إكتشاف كوكب شبيه للأرض بمجموعة قريبة من مجموعتنا الشمسية</title>
+      <link>https://aymanamin.rbind.io/post/earth/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/earth/</guid>
+      <description>
+
+
+&lt;p align=&#34;right&#34;&gt;
+اكتشف بعض علماء الفلك في فبراير الماضي نجم جديد قريب من مجموعتنا الشمسية وتم تسميته “GJ 357” – كتلة هذا النجم تقريبا ثلث كتلة الشمس - ومن بين كواكبه أكثر من كوكب شبيه للأرض، لكن أقربهم يسمي “Gj 357 d”، وهو تقريبا 10 أضعاف كوكب الأرض والعلامات الأولية تقول احتمالية وجود حياة، خاصة العلامات التي تفيد احتمالية وجود الماء علي هذا الكوكب، وهو يعد من اهم الاكتشافات الفلكية في هذا العام.
+تم نشر هذا الاكتشاف في ورقة علمية في مجلة الفلك والفيزياء الفلكية من عدد كبير من الباحثين، والحقيقة ما لفت انتباهي وجعلني اكتب هذا المنشور هو عدد الباحثين الكبير وتنوع الهيئات والمؤسسات والجامعات التي ينتمون اليها.
+للمهتم، مرفق رابط الورقة البحثية وصورة العنوان لها:
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2019/08/aa35801-19.pdf&#34; class=&#34;uri&#34;&gt;https://www.aanda.org/articles/aa/pdf/2019/08/aa35801-19.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-14-earth/article.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> أعداد الحجاج إلي بيت الله الحرام</title>
+      <link>https://aymanamin.rbind.io/post/hajj/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/hajj/</guid>
+      <description>
+&lt;script src=&#34;https://aymanamin.rbind.io/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;right&#34;&gt;
+الحج هو الركن الخامس من أركان الإسلام، ويعد أكبر تجمع بشري سنوي يتم علي وجه الأرض، في البيت الحرام بمكة المكرمة - بالممكلة العربية السعودية.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+&lt;strong&gt;الحج خلال العام الهجري 1440&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+بلغ عدد الحجاج خلال أخر عام هجري (1440 هـ) 2.5 مليون تقريباً منقسمين إلي 1.9 مليون تقريبا من الخارج و630 ألف تقريبا من الداخل.
+يوضح الرسم التالي جميع تفاصيل بيانات الحج والحجاج لهذا العام:
+&lt;/p&gt;
+&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-10-haj/hajj1440.jpg&#34; /&gt;&lt;!-- --&gt;
+&lt;p align=&#34;right&#34;&gt;
+المصدر: الهيئة العامة للإحصاء بالممكلة العربية السعودية
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+&lt;strong&gt;أعداد الحجاج (داخلي - خارجي - جملة) بالمليون خلال أخر 27 سنة (1414 - 1440 هـ)&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+ولتتبع تغيرات اعداد الحجاج خلال السنوات المختلفة، يعرض الجدول التالي أعداد الحجاج (داخلي - خارجي - جملة) بالمليون خلال أخر 27 سنة (1414 - 1440 هـ)،
+ويليه الرسم الزمني الذي يوضح هذه التغيرات بيانياً.
+&lt;/p&gt;
+&lt;div style=&#34;border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:400px; overflow-x: scroll; width:100%; &#34;&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+السنة
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+عدد الحجاج من الداخل
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+عدد الحجاج من الخارج
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+جملة عدد الحجاج
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1414
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+839169
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+995611
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1834780
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1415
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+738096
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1043274
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1781370
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1416
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+784769
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1080465
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1865234
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1417
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+774260
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1168591
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1942851
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1418
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+699770
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1132344
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1832114
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1419
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+775268
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1056730
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1831998
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1420
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+571599
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1267555
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1839154
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1421
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+549271
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1363992
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1913263
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1422
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+590576
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1354184
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1944760
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1423
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+610117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1431012
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2041129
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1424
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+592368
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1419706
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2012074
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1425
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+629710
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1534759
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2164469
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1426
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+700603
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1557447
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2258050
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1427
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+724229
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1654407
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2378636
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1428
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+746511
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1707814
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2454325
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+679008
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1729841
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2408849
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1430
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+699313
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1613965
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2313278
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1431
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+989798
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1799601
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2789399
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1432
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1099522
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1828195
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2927717
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1433
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1408641
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1752932
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3161573
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1434
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+600718
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1379531
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1980249
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1435
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+696185
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1389053
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2085238
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1436
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+567876
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1384941
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1952817
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1437
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+537537
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1325372
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1862909
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1438
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+600108
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1752014
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2352122
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1439
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+612953
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1758722
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2371675
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1440
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+634379
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1855027
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2489406
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p align=&#34;right&#34;&gt;
+المصدر: الهيئة العامة للإحصاء بالممكلة العربية السعودية
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2019-08-10-haj/hajj.gif&#34; width=&#34;95%&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> الأمية في مصر- بمناسبة اليوم الدولي لمحو الأمية 2018</title>
+      <link>https://aymanamin.rbind.io/post/illiteracy-inegypt/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/illiteracy-inegypt/</guid>
+      <description>
+
+
+&lt;style&gt;
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+تم الاحتفال &lt;a href = &#34;https://ar.unesco.org/themes/literacy-all/literacy-day&#34;&gt; باليوم الدولي لمحو الأمية &lt;/a&gt; يوم 8 سبتمبر/ أيلول في كثير من الدول التي أحدثت تقدماً في القضاء علي الأمية. بدايةً بدون تعقيدات يمكن تعريف الأمية علي أنها &lt;strong&gt;عدم القدرة علي القراءة والكتابة&lt;/strong&gt; - وهو التعريف الأولي الذي تبنته اليونيسكو ولكنها طورت هذا التعريف كثيراً ليواكب ما نحن فيه من تقدم. هذا الاحتفال شد إنتباهي إلي إلقاء نظرة علي نتائج تعداد السكان في مصر لعام 2017 للتعرف علي الوضع الحالي للأمية في مصر إجمالاً، وبتفصيلاتها المختلفة في الحضر مقارنة بالريف، وبين الذكور مقارنة بالإناث، وفي محافظات الجمهورية المختلفة. فعندما تصفحت تقارير &lt;a href = &#34;https://capmas.gov.eg&#34;&gt; الجهاز المركزي للتعبئة العامة والإحصاء &lt;/a&gt; الخاصة &lt;a href = &#34; https://capmas.gov.eg/party/party.html&#34;&gt; بتعداد السكان 2017&lt;/a&gt; وجدت أن نسبة الأمية بين المصريين (10 سنوات فأكثر) بلغت 25.8% علي مستوي الجمهورية ككل. أي أن أكثر من ربع المصريين (10 سنوات فأكثر) لا يجيدون القراءة والكتابة، وهو العقبة الحقيقية التي تعوق أي عملية تنمية. لك أن تتخيل أن أكثر من ربع المصريين لا يستطيعون بأنفسهم قراءة صلاحية الأغذية التي يتناولونها، أكثر من ربع المصريين لا يستطيعون التأكد من صحة الأدوية التي يتعالجون بها، أكثر من ربع المصريين لا يستطيعون قراءة كتاب عن التربية لتربية أولادهم، أكثر من ربع المصريين لا يستطيعون ….. (عدد ما تشاء من أوجه التخلف المرتبطة بالأمية). مما لاحظته أيضاً أن الأمية في الريف أكثر بكثير عنها في الحضر، فتشير نتائج تعداد السكان 2017 إلي أن نسبة الأمية في الريف بلغت 32.2% مقارنةً ب 17.7% في الحضر – قرابة الضعف. كذلك الأمية بين الإناث أكثر بكثير عنها بين الذكور، فتشير نفس النتائج إلي أن نسبة الأمية بين الإناث بلغت 30.8% مقارنةً ب 21.2% بين الذكور.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+فالآن تبادر إلي ذهني سؤال بديهي: ما هو دور المؤسسات الحكومية – متمثلة في وزارة التربية والتعليم – والمجتمعات المدنية في مواجهة الأمية التي تعد أهم معوقات التنمية في مصر – من وجهة نظر الكثيرين – وهي الوجه الأخر للتخلف. هذا التساؤل دفعني للعودة بالزمن إلي أكثر من 10 سنوات – تحديداً عام 2006 – ومقارنة مستوي الأمية وقتها بما نحن فيه الآن، وما التطور الذي حدث. أشارت نتائج تعداد السكان 2006 إلي أن نسبة الأمية بين المصريين (10 سنوات فأكثر) كانت 29.7% في عام 2006، وبمقارنة هذه النسبة مع النسبة الحالية 25.8% (من تعداد السكان 2017) يتضح من النظرة الأولي إنخفاض الأمية في مصر – وإن كان قليلاً. فهل هذا حقيقي أن الأمية إنخفضت في مصر؟ دعونا نفحص الأمية من خلال أعداد الأميين في مصر وليس من خلال مقياس النسب. فنجد أن عدد الأميين المصريين (10 سنوات فأكثر) كان تقريبا 17 مليون في عام 2006 مقارنةً ب18.5 مليون تقريبا في عام 2017. أي أن هناك أكثر من 1.5 مليون مصري من الأجيال الجديدة دخلوا دائرة الأمية، والحقيقة أقول أنه أكثر من ذلك بكثير لأنه بالتأكيد هناك أميون من عام 2006 قد تم محو أميتهم أو ماتوا ولم يعدوا ضمن الأميين في عام 2017. فمن تعداد السكان 2017 نجد أن أقل من 392 ألف مصري أمي تم محو أميتهم. ولنفترض جدلاً أن هذا التقدير صحيح أن 1.5 مليون مصري من الأجيال الجديدة دخلوا دائرة الأمية خلال العشر سنوات الأخيرة، فهذا وإن دل علي شئ فإنما يدل علي أن الأمية مستمرة في مصر- بل وقد تكون في تزايد – وأن اسباب تزايدها الحقيقية موجودة، والتي من أهمها التسرب من التعليم الذي تزايد في الفترة الأخير خاصة في الريف.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+من المتوقع أن تختلف الأمية داخل محافظات الجمهورية، ولتوضيح ذلك تم عرض نسب الأمية في المحافظات المختلفة من خلال الخريطة التالية
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2018-09-09-illiteracy-inEgypt/map.png&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+يتضح من هذه الخريطة أن مستويات الأمية يمكن تقسييمها إلي ثلاث مجموعات
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+المجموعة الأولي ذات مستويات عالية للأمية (أعلي من 30%) وهي تتضم أغلب محافظات الصعيد (تحديداً، سوهاج وأسيوط والمنيا وبني سويف والفيوم) وبعض محافظات وجه بحري (البحيرة ومطروح).
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+المجموعة الثانية ذات مستويات متوسطة للأمية (أعلي من 20% وأقل من 30%) وهي تتضم أغلب محافظات وجه بحري.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+المجموعة الثالثة ذات مستويات منخفضة للأمية (أقل من 20%) وهي تتضم المحافظات الحضرية (القاهرة والإسكندرية والسويس وبورسعيد) وبعض المحافظات الحدودية. الجدول التالي يوضح تفصيلاً نسب الأمية مع باقي مستويات التعليم المختلفة في محافظات الجمهورية وفقا لتعدادي السكان 2006 و2017.
+&lt;/p&gt;
+&lt;img src=&#34;https://aymanamin.rbind.io/img/posts/2018-09-09-illiteracy-inEgypt/illit.png&#34; /&gt;&lt;!-- --&gt;
+&lt;p align=&#34;right&#34;&gt;
+المصدر: تقرير &lt;a href = &#34;https://capmas.gov.eg&#34;&gt; الجهاز المركزي للتعبئة العامة والإحصاء &lt;/a&gt; الخاص &lt;a href = &#34; https://capmas.gov.eg/party/party.html&#34;&gt; بتعداد السكان 2017&lt;/a&gt;
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+تجدر الإشارة هنا إلي أن الهدف الرابع من &lt;a href = &#34; https://www.un.org/sustainabledevelopment/ar/development-agenda/ &#34;&gt; أهداف التنمية المستدامة &lt;/a&gt; هو: &lt;strong&gt;ضمان التعليم الجيد المنصف والشامل للجميع وتعزيز فرص التعلّم مدى الحياة للجميع&lt;/strong&gt;، لذلك بدون القضاء علي الأمية لن نتمكن من تحقيق أهداف التنمية المستدامة للتربية والتعليم.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;right&#34;&gt;
+&lt;strong&gt;تحديث &lt;/strong&gt;
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+&lt;a href = &#34; https://www.researchgate.net/profile/Ayman_Amin2/publication/327569176_IlliteracyinEgypt2017/data/5b97154892851c78c41795e8/IlliteracyinEgypt2017.pdf
+&#34;&gt; يمكن تحميل هذا المنشور في صورة ملف كامل من هنا&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+كل البيانات المستخدمة في هذ المنشور تم تحميلها في شهر ديسمبر 2017 من موقع &lt;a href = &#34; https://capmas.gov.eg/party/party.html&#34;&gt; الجهاز المركزي للتعبئة العامة والإحصاء الخاص بتقارير تعداد السكان 2017&lt;/a&gt;، وفي حالة وجود مشكلة للدخول علي هذا الموقع لتحميل هذه التقارير يمكن للمهتم أن يتواصل معي ليتم إرسالها بالإيميل.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> الرقم القياسي لأسعار المساكن: تجارب دولية ومنهجية للتطبيق في مصر</title>
+      <link>https://aymanamin.rbind.io/post/house-price-index/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/house-price-index/</guid>
+      <description>
+&lt;link href=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;style&gt;
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+منذ عشر سنوات مع بداية 2008، كنت أفكر في بناء مؤشر لقياس أسعار المساكن والعقارات في مصر، ووقتها فعلاً قرأت في الموضوع وحاولت فيه لأكثر من سنة - مع مساعدة بعض الباحثين الأكثر مني خبرة - لأقتراح “رقم قياسي لأسعار المساكن” وهو عبارة عن “مؤشر مركب يقيس متوسط تغيرات أسعار مبيعات المساكن والعقارات المختلفة التي تم تداولها في السوق خلال فترة معينة، وهذه الفترة قد تكون شهر أو ربع سنة أو تزيد لسنة. كما أنه يعكس الخصائص المختلفة لهذه المساكن والعقارات والتي تحدد أسعارها في السوق”، ولكن الحقيقة لم أنجح في هذا لأنه عمل يحتاج إلي فريق متكامل متعدد الخبرات، ووقتها أنشغلت في الدراسات العليا وتركت الموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+وفعلاً مازلت أجد أن هذا الرقم القياسي لأسعار المساكن مهم جداً للبلد ككل، وخاصةً لكل من يهتم بالتخطيط العمراني أو سوق العقارات واستثماراتها وبشكل خاص في المدن الجديدة.
+أظن أن الباحثين المهتمين بالتخطيط العمراني وعلاقته بسوق العقارات واستثماراتها في مصر يمكن لهم أن يقوموا بهذا المشروع بالتعاون مع الحكومة ومن خلال التقديم علي دعم مالي من منظمات دولية ذات إهتمام بالموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+كل بحثي في موضوع الرقم القياسي لأسعار المساكن ومنهجية تطبيقه في مصر وضعته في تقرير متكامل، لعله يجد من يستفيد به ويبني عليه. بسبب مرور قرابة عشر سنوات علي فكرته فهو بحاجة للتحديث. يمكن تحميل التقرير من &lt;a href = &#34;https://www.researchgate.net/publication/322452580_House_Price_Index_International_Experiences_and_A_Methodology_for_Application_in_Egypt_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> المشكلة السكانية في مصر</title>
+      <link>https://aymanamin.rbind.io/post/population-problem-inegypt/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/population-problem-inegypt/</guid>
+      <description>
+&lt;link href=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+h1.title {
+   direction: rtl;
+}
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+بمناسبة مبادرة “شباب جامعات مصر” التي تدشنها الآن وزارة الصحة والسكان للحد من الزيادة السكانية، أذكر عندما كنت حديث التخرج عملت كباحث في وحدة متابعة وتقييم الخطة الإستراتيجية للسكان في مصر، ووقتها كنت مجرد باحث مساعد لمجموعة من خبراء السكان (من بينهم الدكتورة فاطمة الزهراء جيل)، وقمنا بدراسة مهمة عن تقدير المستهدفات الكمية لأهم مؤشرات المتابعة والتقييم للبرنامج السكاني في مصر، وبناءاً علي نتائج هذه الدراسة قدمت ورقة بحثية في “المؤتمر الإقليمي الأول: مواجهة المشكلة السكانية في صعيد مصر”، والذي عُقد في جامعة أسيوط 1-2 أبريل 2009. ما ذكَرني تحديداً بهذه الورقة، هو أني كنت أرتب المجلدات القديمة في مكتبتي فوجدت كتاب المؤتمر، ففتحته وبدأت أقرأ هذه الورقة البحثية التي مر علي ما بها من نتائج وإسقاطات سكانية أكثر من 10 سنوات. الحقيقة صُدمت، لأن كل ما بها من إسقاطات سكانية أبعد ما يكون عن الواقع الحالي. فعلي سبيل المثال في هذه الورقة كان من المتوقع إذا استمر وضع الإنجاب علي ما هو عليه من معدل انخفاض مشاهد خلال الفترة (1995- 2005 )، فهذا سوف يؤدى إلى الوصول إلى معدل إنجاب كلِّى قدره (2.5 طفل لكل سيدة عام 2015). وسبب الصدمة أن نتائج المسح السكاني الصحي في 2014 أفادت أن معدل الإنجاب الكلِّى بلغ تقريبا 3.5 طفل لكل سيدة مقارنةً بـتقريبا 3.0 طفل لكل سيدة في عام 2008.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+أظن أن المشكلة السكانية في مصر فعلاً تحتاج طريقة تفكيرجديدة ومختلفة عن السابق حتي نصل لنتائج حقيقية في إتجاه تحسين الوضع السكاني في مصر، وبناءاً علي نتائج تعداد السكان 2017 يجب ان يكون هناك إتجاه قوي نحو تغيير أدواتنا في التعامل مع هذه المشكلة الحقيقية في مصر.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+الورقة مرفقة لمن يهتم بالقضية السكانية والبرنامج السكاني في مصر، كذلك تجدر الإشارة أن هذه الورقة يمكن تحديثها في جانبين مهمين: الجانب الأول هو دراسة الوضع السكاني الراهن ومحاولة معرفة الأسباب الحقيقية للتغير غير المتوقع في إتجاهات الانجاب في أخر عشر سنوات؛ أم الجانب الثاني فهو إستخدام بيانات المسح السكاني الصحي 2014 وبيانات تعداد السكان 2017 لوضع سيناريوهات مختلفة لعمل تقديرات سكانية حتي عام 2050 لإستخدامها في الجوانب المختلفة لخطة التنمية المستدامة في مصر. للتحديث. يمكن تحميل الورقة كاملة من &lt;a href = &#34;https://www.researchgate.net/publication/322448040_Estimating_the_quantitative_values_for_the_monitoring_and_evaluation_indicators_of_the_population_problem_2005-2017_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

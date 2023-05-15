@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/author/ayman-a.-amin/</link>
+      <atom:link href="https://aymanamin.rbind.io/author/ayman-a.-amin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ayman A. Amin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Ayman A. Amin</title>
+      <link>https://aymanamin.rbind.io/author/ayman-a.-amin/</link>
+    </image>
+    
+    <item>
+      <title>A Kullback-Leibler divergence based comparison of approximate Bayesian estimations of ARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2022-kldiverarma_estimation-approximate/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2022-kldiverarma_estimation-approximate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Bayesian Estimation of Triple Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2022-gibbstsar/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2022-gibbstsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-economic determinants of mothers&#39; health care in Egypt (in Arabic)</title>
+      <link>https://aymanamin.rbind.io/publication/2022-healthcare/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2022-healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of Triple Seasonal Autoregressive Models Using Gibbs Sampling</title>
+      <link>https://aymanamin.rbind.io/publication/2021-gibbstsar/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2021-gibbstsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Analysis of Double Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2020-gibbsdsar/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2020-gibbsdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposed Open-Circuit Faults Detection Using Control Charts Technique</title>
+      <link>https://aymanamin.rbind.io/publication/2019-opencircuitfaults/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-opencircuitfaults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaotic Analysis of Egyptian Stock Market with the Application to EGX 30 price Index</title>
+      <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Bayesian Prediction of SARMA Processes</title>
+      <link>https://aymanamin.rbind.io/publication/2019-gibbssarma/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-gibbssarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Analysis of Double Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Nonlinear Structure in Egyptian Stock Market Indices</title>
+      <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Look at Bayesian Identification of Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationma/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for double SARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2018-analyticdsarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Identification of Double Seasonal Autoregressive Time Series Models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-identificationdsar/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2018-identificationdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kullback-Leibler divergence to evaluate posterior sensitivity to different priors for autoregressive time series models</title>
+      <link>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2018-kl-arestimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Double Seasonal Autoregressive Models: A Bayesian Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2017-identificationdsar/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-identificationdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity to Prior Specification in Bayesian Identification of Autoregressive Time Series Models</title>
+      <link>https://aymanamin.rbind.io/publication/2017-kl-aridentification/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-kl-aridentification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Double Seasonal Moving Average Models: A Gibbs Sampling Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2017-gibbsdsma/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-gibbsdsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Double Seasonal ARMA Models</title>
+      <link>https://aymanamin.rbind.io/publication/2017-gibbsdsarma/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-gibbsdsarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Workload Forecasting</title>
+      <link>https://aymanamin.rbind.io/publication/2017-onlineworkloadforecasting/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2017-onlineworkloadforecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite Indicator to Measure Multidimensional Spatial Inequality in Cairo</title>
+      <link>https://aymanamin.rbind.io/publication/2016-inequality/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2016-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Double Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</link>
+      <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for Double Seasonal Moving Average Models</title>
+      <link>https://aymanamin.rbind.io/publication/2015-gibbsdsma/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2015-gibbsdsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampling for SARMA Models</title>
+      <link>https://aymanamin.rbind.io/publication/2014-gibbssarma/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2014-gibbssarma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactive vs. Proactive Detection of Quality of Service Problems</title>
+      <link>https://aymanamin.rbind.io/publication/2014-reactivevsproactive/</link>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2014-reactivevsproactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to software reliability prediction based on time series modeling</title>
+      <link>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automated approach to forecasting QoS attributes based on linear and non-linear time series modeling</title>
+      <link>https://aymanamin.rbind.io/publication/2012-ase2012/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-ase2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to forecasting QoS attributes of web services based on ARIMA and GARCH models</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icws2012/</link>
+      <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-icws2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical detection of QoS violations based on CUSUM control charts</title>
+      <link>https://aymanamin.rbind.io/publication/2012-icpe2012/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2012-icpe2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Automated Control Charts for the Runtime Evaluation of QoS Attributes</title>
+      <link>https://aymanamin.rbind.io/publication/2011-hase2011/</link>
+      <pubDate>Thu, 29 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2011-hase2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Based Forecasting Methods</title>
+      <link>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Modeling Based Software Reliability Prediction</title>
+      <link>https://aymanamin.rbind.io/publication/2010-softwarereliabilityprediction/</link>
+      <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2010-softwarereliabilityprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs sampling for SARMA models</title>
+      <link>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</link>
+      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2010-idscworkingpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Seasonal ARMA Models: A Gibbs Sampling Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2009-iccxs/</link>
+      <pubDate>Sat, 26 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-iccxs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Seasonal ARMA Model: A Gibbs Sampling Approach</title>
+      <link>https://aymanamin.rbind.io/publication/2009-thesis/</link>
+      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the quantitative values for the monitoring and evaluation indicators of the population problem (2005-2017)</title>
+      <link>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</link>
+      <pubDate>Sun, 26 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-regionalconferenceofpopulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House Price Index: International Experiences and A Methodology for Application in Egypt</title>
+      <link>https://aymanamin.rbind.io/publication/2009-hpi/</link>
+      <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-hpi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

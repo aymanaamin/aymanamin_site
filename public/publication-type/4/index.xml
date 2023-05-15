@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/publication-type/4/</link>
+      <atom:link href="https://aymanamin.rbind.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://aymanamin.rbind.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Estimation of Triple Seasonal Autoregressive Models Using Gibbs Sampling</title>
+      <link>https://aymanamin.rbind.io/publication/2021-gibbstsar/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2021-gibbstsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Based Forecasting Methods</title>
+      <link>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2011-forecastingmethods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Modeling Based Software Reliability Prediction</title>
+      <link>https://aymanamin.rbind.io/publication/2010-softwarereliabilityprediction/</link>
+      <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2010-softwarereliabilityprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House Price Index: International Experiences and A Methodology for Application in Egypt</title>
+      <link>https://aymanamin.rbind.io/publication/2009-hpi/</link>
+      <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2009-hpi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

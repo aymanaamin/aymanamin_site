@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El-Sayed Khater | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/author/el-sayed-khater/</link>
+      <atom:link href="https://aymanamin.rbind.io/author/el-sayed-khater/index.xml" rel="self" type="application/rss+xml" />
+    <description>El-Sayed Khater</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>El-Sayed Khater</title>
+      <link>https://aymanamin.rbind.io/author/el-sayed-khater/</link>
+    </image>
+    
+    <item>
+      <title>Socio-economic determinants of mothers&#39; health care in Egypt (in Arabic)</title>
+      <link>https://aymanamin.rbind.io/publication/2022-healthcare/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2022-healthcare/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

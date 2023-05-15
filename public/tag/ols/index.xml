@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OLS | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/tag/ols/</link>
+      <atom:link href="https://aymanamin.rbind.io/tag/ols/index.xml" rel="self" type="application/rss+xml" />
+    <description>OLS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>OLS</title>
+      <link>https://aymanamin.rbind.io/tag/ols/</link>
+    </image>
+    
+    <item>
+      <title> الرقم القياسي لأسعار المساكن: تجارب دولية ومنهجية للتطبيق في مصر</title>
+      <link>https://aymanamin.rbind.io/post/house-price-index/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/post/house-price-index/</guid>
+      <description>
+&lt;link href=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://aymanamin.rbind.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;style&gt;
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+}
+&lt;/style&gt;
+&lt;p align=&#34;right&#34;&gt;
+منذ عشر سنوات مع بداية 2008، كنت أفكر في بناء مؤشر لقياس أسعار المساكن والعقارات في مصر، ووقتها فعلاً قرأت في الموضوع وحاولت فيه لأكثر من سنة - مع مساعدة بعض الباحثين الأكثر مني خبرة - لأقتراح “رقم قياسي لأسعار المساكن” وهو عبارة عن “مؤشر مركب يقيس متوسط تغيرات أسعار مبيعات المساكن والعقارات المختلفة التي تم تداولها في السوق خلال فترة معينة، وهذه الفترة قد تكون شهر أو ربع سنة أو تزيد لسنة. كما أنه يعكس الخصائص المختلفة لهذه المساكن والعقارات والتي تحدد أسعارها في السوق”، ولكن الحقيقة لم أنجح في هذا لأنه عمل يحتاج إلي فريق متكامل متعدد الخبرات، ووقتها أنشغلت في الدراسات العليا وتركت الموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+وفعلاً مازلت أجد أن هذا الرقم القياسي لأسعار المساكن مهم جداً للبلد ككل، وخاصةً لكل من يهتم بالتخطيط العمراني أو سوق العقارات واستثماراتها وبشكل خاص في المدن الجديدة.
+أظن أن الباحثين المهتمين بالتخطيط العمراني وعلاقته بسوق العقارات واستثماراتها في مصر يمكن لهم أن يقوموا بهذا المشروع بالتعاون مع الحكومة ومن خلال التقديم علي دعم مالي من منظمات دولية ذات إهتمام بالموضوع.
+&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+كل بحثي في موضوع الرقم القياسي لأسعار المساكن ومنهجية تطبيقه في مصر وضعته في تقرير متكامل، لعله يجد من يستفيد به ويبني عليه. بسبب مرور قرابة عشر سنوات علي فكرته فهو بحاجة للتحديث. يمكن تحميل التقرير من &lt;a href = &#34;https://www.researchgate.net/publication/322452580_House_Price_Index_International_Experiences_and_A_Methodology_for_Application_in_Egypt_In_Arabic&#34;&gt; هنا&lt;/a&gt; .
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

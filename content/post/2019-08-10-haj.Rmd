@@ -1,0 +1,70 @@
+---
+title: ' أعداد الحجاج إلي بيت الله الحرام' 
+author: Ayman Amin
+date: '2019-08-10'
+categories:
+  - Islamic Issues 
+tags:
+  - Islam
+  - Pilgrimage
+  - Hajj
+summary: أعداد الحجاج إلي بيت الله الحرام  
+slug: Hajj
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="right">
+الحج هو الركن الخامس من أركان الإسلام، ويعد أكبر تجمع بشري سنوي يتم علي وجه الأرض، في البيت الحرام بمكة المكرمة - بالممكلة العربية السعودية.
+</p>
+
+<p align="right">
+**الحج خلال العام الهجري 1440**
+</p>
+
+<p align="right">
+بلغ عدد الحجاج خلال أخر عام هجري (1440 هـ) 2.5 مليون تقريباً منقسمين إلي 1.9 مليون تقريبا من الخارج و630 ألف تقريبا من الداخل.
+يوضح الرسم التالي جميع تفاصيل بيانات الحج والحجاج لهذا العام:
+</p>
+
+
+
+```{r echo=FALSE}
+knitr::include_graphics('/img/posts/2019-08-10-haj/hajj1440.jpg')
+```
+<p align="right">
+المصدر: الهيئة العامة للإحصاء بالممكلة العربية السعودية
+</p>
+
+
+<p align="right">
+**أعداد الحجاج (داخلي - خارجي - جملة) بالمليون خلال أخر 27 سنة (1414 - 1440 هـ)**
+</p>
+
+<p align="right">
+ولتتبع تغيرات اعداد الحجاج خلال السنوات المختلفة، يعرض الجدول التالي أعداد الحجاج (داخلي - خارجي - جملة) بالمليون خلال أخر 27 سنة (1414 - 1440 هـ)، 
+ويليه الرسم الزمني الذي يوضح هذه التغيرات بيانياً.   
+</p> 
+
+
+```{r, echo=FALSE}
+library(kableExtra)
+#df = readxl::read_xlsx("../../static/hajj2.xlsx")
+df = readxl::read_xlsx('../../static/data/posts/2019-08-10-haj/hajj2.xlsx')
+kable(df) %>%
+  kable_styling("striped", full_width = F) %>%
+  scroll_box(width = "100%", height = "400px")
+```
+<p align="right">
+المصدر: الهيئة العامة للإحصاء بالممكلة العربية السعودية
+</p>
+
+
+
+```{r echo=FALSE, out.width= "95%"}
+knitr::include_graphics('/img/posts/2019-08-10-haj/hajj.gif')
+```
