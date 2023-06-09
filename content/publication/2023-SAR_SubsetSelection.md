@@ -30,7 +30,7 @@ caption = ""
 
 
 ## Data Availability
-All the simulated and real datasets used in this paper are available here, and can be downloadedd.
+All the simulated and real datasets used in this paper are available here, and can be downloaded.
 
 ### Simulated Datasets
 We simulate 1,000 time series datasets from each of four SAR models, aiming to cover different seasonality patterns.  
