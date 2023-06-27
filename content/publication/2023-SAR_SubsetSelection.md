@@ -6,7 +6,7 @@ date = "2023-06-09"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "Under Review: In *Mathematics*"
+publication = "In *Mathematics*"
 publication_short = ""
 selected = true
 title = "Bayesian Subset Selection of Seasonal Autoregressive Models"
@@ -30,18 +30,7 @@ caption = ""
 
 
 ## Data Availability
-All the simulated and real datasets used in this paper are available here, and can be downloaded.
-
-### Simulated Datasets
-We simulate 1,000 time series datasets from each of four SAR models, aiming to cover different seasonality patterns.  
-
-- <a href = "https://drive.google.com/file/d/1-dMpJPjyj_okPzGLhWtbDJdAXhuxwsIk/view?usp=drive_link"> Simulated data for SAR Model-I  </a>
-
-- <a href = "https://drive.google.com/file/d/1NQy_NxKbyNHXh2LRNvNP_VEmMqi1_vDn/view?usp=drive_link"> Simulated data for SAR Model-II  </a>
-
-- <a href = "https://drive.google.com/file/d/1yet1HkDB3oxusss7JnW9qe-kBhEhggwi/view?usp=drive_link"> Simulated data for SAR Model-III  </a>
-
-- <a href = "https://drive.google.com/file/d/1GhU3nhHkUhgxm4cHAcxmLoJ_Uvci9FkL/view?usp=drive_link"> Simulated data for SAR Model-IV  </a>
+The real dataset used in this paper is available here, and can be downloaded.
 
 
 ### Real Dataset
