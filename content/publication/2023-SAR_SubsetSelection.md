@@ -13,7 +13,7 @@ title = "Bayesian Subset Selection of Seasonal Autoregressive Models"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = ""
+url_project = "https://www.mdpi.com/2227-7390/11/13/2878"
 url_slides = ""
 url_video = ""
 
