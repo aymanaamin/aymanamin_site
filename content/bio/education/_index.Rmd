@@ -1,0 +1,71 @@
+---
+date: "2018-09-09T00:00:00Z"
+draft: false
+lastmod: "2018-09-09T00:00:00Z"
+linktitle: Education
+menu:
+  example:
+    name: Education
+    weight: 2
+summary: 
+title: Education History
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 3
+weight: 2
+type: docs
+---
+
+# **PhD in Applied Statistics and Information Technology** 
+
+**Faculty of Science, Engineering, and Technology (FSET), Swinburne University of Technology, Australia [April 2010 - January 2014]**.  
+
+**Thesis Topic:** Automated Statistical Forecasting for Quality Attributes of Web Services
+
+
+**Supervisor:**   Prof. Lars Grunske and Dr. Alan Colman
+
+**Area of Study:** Quantitative Analysis for Quality Attributes of Software Systems
+
+**Thesis Abstract:** This study proposes a collection of automated forecasting approaches for quality of service (QoS) attributes of Web services. Each one of these approaches is able to fit and forecast a specific type of QoS stochastic characteristics, however, taken together they will be able to fit different dynamic behaviors of QoS attributes and forecast their future values. In particular, the thesis proposes an automated forecasting approach for nonlinearly dependent QoS attributes, two automated forecasting approaches for linearly dependent QoS attributes with volatility clustering, and two automated forecasting approaches for nonlinearly dependent QoS attributes with volatility clustering. The accuracy and performance of the proposed forecasting approaches are evaluated and compared to those of the baseline ARIMA time series models using real-world QoS datasets of Web services characterized by nonlinearity and volatility clustering. The evaluation results show that each one of the proposed forecasting approaches outperforms the baseline ARIMA models. 
+
+
+
+# **MSc in Statistics** 
+
+**Faculty of Economics and Political Science (FEPS), Cairo University, Egypt [with excellent degree, October 2006 - October 2009]**.  
+
+**Thesis Topic:** Bayesian Inference for Seasonal ARMA Models: A Gibbs Sampling Approach
+
+
+**Supervisor:**   Prof. Mohamed Ismail and Prof. Emad Soliman
+
+**Area of Study:** Bayesian Time Series Analysis
+
+**Thesis Abstract:** This study develops a Bayesian inference for multiplicative seasonal ARMA model by implementing a fast, easy and accurate MCMC Gibbs sampling algorithm. The proposed algorithm does not involve any Metropolis-Hastings generation but is generated from normal and inverse gamma distributions. The proposed algorithm is illustrated using simulated examples and real datasets. 
+
+
+# **Pre-MSc in Statistics** 
+
+**FEPS, Cairo University, Egypt [MSc Preparatory Year, September 2006 - July 2007]**.  
+
+**Main courses** of this year include:
+
+- Theory of Statistics        
+- Time Series Analysis (Classical and Bayesian)  
+- Advanced Mathematics   
+- Robust Regression Diagnostics 
+- Advanced Econometrics 
+- Biostatistics and Demography 
+
+**Grade** is Very Good (and the First among the class students)
+
+
+# **BSc in Statistics and Social Science Computing** 
+
+**FEPS, Cairo University, Egypt [with excellent degree, September 2002 - July 2006]**.  
+
+
+**Major Specialization** is Statistics and **Minor Specialization** is Social Science Computing.

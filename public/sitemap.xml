@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aymanamin.rbind.io/courses/appliedmath-es/</loc>
+    <loc>https://aymanamin.rbind.io/bio/general/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aymanamin.rbind.io/courses/puremath-as/</loc>
+    <loc>https://aymanamin.rbind.io/bio/education/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/bio/awards/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/bio/experiences/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/bio/consultation/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,7 +333,7 @@
   </url>
   
   <url>
-    <loc>https://aymanamin.rbind.io/courses/</loc>
+    <loc>https://aymanamin.rbind.io/bio/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -584,6 +599,10 @@
   
   <url>
     <loc>https://aymanamin.rbind.io/author/ayman-a.-amin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/courses/</loc>
   </url>
   
   <url>

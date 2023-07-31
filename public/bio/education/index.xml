@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biography | Ayman A. Amin</title>
-    <link>https://aymanamin.rbind.io/bio/</link>
-      <atom:link href="https://aymanamin.rbind.io/bio/index.xml" rel="self" type="application/rss+xml" />
-    <description>Biography</description>
+    <title>Education History | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/bio/education/</link>
+      <atom:link href="https://aymanamin.rbind.io/bio/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education History</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2023</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
-      <title>Biography</title>
-      <link>https://aymanamin.rbind.io/bio/</link>
+      <title>Education History</title>
+      <link>https://aymanamin.rbind.io/bio/education/</link>
     </image>
     
   </channel>

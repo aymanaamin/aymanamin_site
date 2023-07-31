@@ -1,0 +1,71 @@
+---
+date: "2018-09-09T00:00:00Z"
+draft: false
+lastmod: "2018-09-09T00:00:00Z"
+linktitle: Academic and Research Experiences
+menu:
+  example:
+    name: Experiences
+    weight: 4
+summary: 
+title: Academic and Research Experiences
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 3
+weight: 4
+type: docs
+---
+
+
+# Associate Professor of Statistics
+
+**@ Menoufia University [October 2020 - To Date]**
+
+I am an **Associate Professor of Statistics** in Department of Statistics, Insurance and Mathematics at Faculty of Commerce, Menoufia University, Egypt. 
+Before that, I worked in the same department as an **Assistant Professor of Statistics** from September 2015 to September 2020, and also as a **Teaching Assistant** from May 2007 to April 2010. The courses I have been teaching for undergraduate include:
+
+- Pure Mathematics		
+- Applied Mathematics		
+- Principles of Statistics 
+- Applied Statistics 
+- Quantitative Analysis
+
+Courses I have been teaching for Postgraduate include: 
+
+- Advanced Statistics	
+- Theory of Statistics
+- Mathematics for Statisticians	
+- Demography
+- Time Series Analysis
+
+
+# Adjunct Research Fellow 
+
+**@ Swinburne University of Technology [March 2014 - February 2017]** 
+
+I have worked as an **Adjunct Research Fellow** at Faculty of Science, Engineering, and Technology (FSET), Swinburne University of Technology, Australia during March 2014 - February 2017.
+
+
+# PhD Candidate and Tutor
+
+**@ Swinburne University of Technology [April 2010 - January 2014]**  
+
+The main courses I have been tutoring include: 
+
+- HMS215 Engineering Mathematics 3C.
+- HMS214 Engineering Mathematics 4B.
+- HMS211M Engineering Mathematics 3M.
+- HES5102/HES5103 Research Project.
+
+
+# Statistician
+
+**@ IDSC, Egyptian Cabinet, Egypt [October 2006 - April 2007]**
+
+After my graduation I directly worked as a **Statistician** in Data Quality Unit at Information and Decision Support Center (IDSC), Egyptian Cabinet, Egypt.
+     
+     
+     
+     

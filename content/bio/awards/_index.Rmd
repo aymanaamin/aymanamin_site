@@ -1,0 +1,25 @@
+---
+date: "2018-09-09T00:00:00Z"
+draft: false
+lastmod: "2018-09-09T00:00:00Z"
+linktitle: Awards
+menu:
+  example:
+    name: Awards
+    weight: 3
+summary: 
+title: Awards
+toc: false
+type: docs
+weight: 3
+---
+
+# 1. SIG Travel Grant for the students/researchers, ACM
+
+WOSP/SIPEW International Conference on Performance Engineering Support Travel Grant (ICPE, 2012), which is the SIG Travel Grant for the students/researchers from [Association for Computing Machinery (ACM)](http://www.acm.org/).
+
+
+# 2. Chancellors Research Scholarship (CRS, 2009), Swinburne University 
+
+CRS is the Swinburne University's premier research award. 
+
