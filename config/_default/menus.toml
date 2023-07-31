@@ -36,11 +36,6 @@
 
 
 [[main]]
-  name = "بالعربية"
-  url = "https://aymanamin-ar.netlify.com/"
-  weight = 50
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
@@ -52,3 +47,8 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+[[main]]
+  name = "بالعربية"
+  url = "https://aymanamin-ar.netlify.com/"
+  weight = 80
