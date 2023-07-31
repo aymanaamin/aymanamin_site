@@ -41,7 +41,7 @@ social:
   link: http://orcid.org/0000-0003-1560-7609
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ayman-amin-a45b1441/
+  link: https://www.linkedin.com/in/aymanaamin/
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/aymanaamin  

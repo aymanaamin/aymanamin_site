@@ -5,12 +5,35 @@
     <link>https://aymanamin.rbind.io/publication/</link>
       <atom:link href="https://aymanamin.rbind.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2022</copyright><lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2023</copyright><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://aymanamin.rbind.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Subset Selection of Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2023-sar_subsetselection/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2023-sar_subsetselection/</guid>
+      <description>&lt;h2 id=&#34;data-availability&#34;&gt;Data Availability&lt;/h2&gt;
+&lt;p&gt;The real dataset used in this paper is available here, and can be downloaded.&lt;/p&gt;
+&lt;h3 id=&#34;real-dataset&#34;&gt;Real Dataset&lt;/h3&gt;
+&lt;p&gt;The real time series dataset that we consider in our application is the monthly Federal Reserve Board (FRB) production index, starting from January 1948 to December 1978.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href = &#34;https://drive.google.com/file/d/1u_SHjea6jGBAi1EXZIy-Mze54A7--s6R/view?usp=drive_link&#34;&gt; FRB production index  &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Full Bayesian analysis of double seasonal autoregressive models with real applications</title>
+      <link>https://aymanamin.rbind.io/publication/2023-gibbsdsar-full/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2023-gibbsdsar-full/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Kullback-Leibler divergence based comparison of approximate Bayesian estimations of ARMA models</title>
