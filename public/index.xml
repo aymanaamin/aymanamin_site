@@ -56,6 +56,14 @@
     </item>
     
     <item>
+      <title>Bayesian Inference of Triple Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2022-analytictsar/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2022-analytictsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Kullback-Leibler divergence based comparison of approximate Bayesian estimations of ARMA models</title>
       <link>https://aymanamin.rbind.io/publication/2022-kldiverarma_estimation-approximate/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
@@ -124,6 +132,14 @@
       <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Identification Methods for Autoregressive Models: A Comparison Study</title>
+      <link>https://aymanamin.rbind.io/publication/2019-identificationar/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2019-identificationar/</guid>
       <description></description>
     </item>
     
@@ -644,14 +660,6 @@
     </item>
     
     <item>
-      <title>Bayesian Analysis of Double Seasonal Autoregressive Models</title>
-      <link>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Detecting Nonlinear Structure in Egyptian Stock Market Indices</title>
       <link>https://aymanamin.rbind.io/publication/2019-nonlinearegymarket/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
@@ -1058,6 +1066,14 @@ p {
     </item>
     
     <item>
+      <title>Automated Statistical Forecasting for Quality Attributes of Web Services</title>
+      <link>https://aymanamin.rbind.io/publication/2014-phd-thesis/</link>
+      <pubDate>Thu, 23 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2014-phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An approach to software reliability prediction based on time series modeling</title>
       <link>https://aymanamin.rbind.io/publication/2013-softwarereliabilityprediction/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
@@ -1139,9 +1155,9 @@ p {
     
     <item>
       <title>Bayesian Inference for Seasonal ARMA Model: A Gibbs Sampling Approach</title>
-      <link>https://aymanamin.rbind.io/publication/2009-thesis/</link>
+      <link>https://aymanamin.rbind.io/publication/2009-msc-thesis/</link>
       <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://aymanamin.rbind.io/publication/2009-thesis/</guid>
+      <guid>https://aymanamin.rbind.io/publication/2009-msc-thesis/</guid>
       <description></description>
     </item>
     

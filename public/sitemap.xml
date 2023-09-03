@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://aymanamin.rbind.io/publication/2022-analytictsar/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aymanamin.rbind.io/publication/2022-kldiverarma_estimation-approximate/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -190,6 +195,11 @@
   <url>
     <loc>https://aymanamin.rbind.io/author/eman-talaat/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/publication/2019-identificationar/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -295,11 +305,6 @@
   <url>
     <loc>https://aymanamin.rbind.io/publication/2019-gibbssarma/</loc>
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -503,6 +508,16 @@
   </url>
   
   <url>
+    <loc>https://aymanamin.rbind.io/publication-type/0/</loc>
+    <lastmod>2014-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/publication/2014-phd-thesis/</loc>
+    <lastmod>2014-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aymanamin.rbind.io/author/alan-colman/</loc>
     <lastmod>2013-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -578,12 +593,7 @@
   </url>
   
   <url>
-    <loc>https://aymanamin.rbind.io/publication-type/0/</loc>
-    <lastmod>2009-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aymanamin.rbind.io/publication/2009-thesis/</loc>
+    <loc>https://aymanamin.rbind.io/publication/2009-msc-thesis/</loc>
     <lastmod>2009-09-26T00:00:00+00:00</lastmod>
   </url>
   

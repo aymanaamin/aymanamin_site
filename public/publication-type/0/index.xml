@@ -5,7 +5,7 @@
     <link>https://aymanamin.rbind.io/publication-type/0/</link>
       <atom:link href="https://aymanamin.rbind.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2023</copyright><lastBuildDate>Sat, 26 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2023</copyright><lastBuildDate>Thu, 23 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Automated Statistical Forecasting for Quality Attributes of Web Services</title>
+      <link>https://aymanamin.rbind.io/publication/2014-phd-thesis/</link>
+      <pubDate>Thu, 23 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2014-phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Inference for Seasonal ARMA Model: A Gibbs Sampling Approach</title>
-      <link>https://aymanamin.rbind.io/publication/2009-thesis/</link>
+      <link>https://aymanamin.rbind.io/publication/2009-msc-thesis/</link>
       <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://aymanamin.rbind.io/publication/2009-thesis/</guid>
+      <guid>https://aymanamin.rbind.io/publication/2009-msc-thesis/</guid>
       <description></description>
     </item>
     

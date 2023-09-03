@@ -36,6 +36,14 @@
     </item>
     
     <item>
+      <title>Bayesian Inference of Triple Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2022-analytictsar/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2022-analytictsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Kullback-Leibler divergence based comparison of approximate Bayesian estimations of ARMA models</title>
       <link>https://aymanamin.rbind.io/publication/2022-kldiverarma_estimation-approximate/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
@@ -88,14 +96,6 @@
       <link>https://aymanamin.rbind.io/publication/2019-gibbssarma/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://aymanamin.rbind.io/publication/2019-gibbssarma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Analysis of Double Seasonal Autoregressive Models</title>
-      <link>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://aymanamin.rbind.io/publication/2019-gibbsdsar/</guid>
       <description></description>
     </item>
     

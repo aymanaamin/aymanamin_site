@@ -1,18 +1,17 @@
 +++
 abstract = "In this paper, we introduce a Bayesian method for selecting the most promising subset of the seasonal autoregressive (SAR) models."
-
 authors = ["Ayman A. Amin", "Walid Emam", "Yusra Tashkandy", "Christophe Chesneau"]
 date = "2023-06-09"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Mathematics*"
+publication = "*Mathematics*"
 publication_short = ""
 selected = true
 title = "Bayesian Subset Selection of Seasonal Autoregressive Models"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://www.mdpi.com/2227-7390/11/13/2878/pdf"
 url_project = "https://www.mdpi.com/2227-7390/11/13/2878"
 url_slides = ""
 url_video = ""
