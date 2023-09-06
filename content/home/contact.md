@@ -13,7 +13,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: ayman.a.amin@gmail.com
 
 # Automatically link email and phone or display as text?
 autolink: true
@@ -22,7 +22,7 @@ autolink: true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form: 1
+email_form: 0
 
 netlify:
   # Enable CAPTCHA challenge to reduce spam?
