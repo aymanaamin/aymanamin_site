@@ -13,7 +13,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: ayman.a.amin@gmail.com
+subtitle: 
 
 # Automatically link email and phone or display as text?
 autolink: true
