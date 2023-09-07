@@ -49,6 +49,6 @@
 #    weight = 70
 
 [[main]]
-  name = "بالعربية"
+  name = "العربية"
   url = "https://aymanamin-ar.netlify.com/"
   weight = 80
