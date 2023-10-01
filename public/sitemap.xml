@@ -44,17 +44,37 @@
   
   <url>
     <loc>https://aymanamin.rbind.io/publication-type/2/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aymanamin.rbind.io/authors/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aymanamin.rbind.io/author/ayman-a.-amin/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/publication/2023-identificationtsar/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/publication_types/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/publication/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/author/saeed-a.-alghamdi/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,16 +84,6 @@
   
   <url>
     <loc>https://aymanamin.rbind.io/author/christophe-chesneau/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aymanamin.rbind.io/publication_types/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aymanamin.rbind.io/publication/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,6 +453,16 @@
   </url>
   
   <url>
+    <loc>https://aymanamin.rbind.io/courses/appliedmath-es/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aymanamin.rbind.io/courses/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aymanamin.rbind.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -609,10 +629,6 @@
   
   <url>
     <loc>https://aymanamin.rbind.io/author/ayman-a.-amin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aymanamin.rbind.io/courses/</loc>
   </url>
   
   <url>

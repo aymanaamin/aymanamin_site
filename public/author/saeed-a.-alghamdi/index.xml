@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saeed A. Alghamdi | Ayman A. Amin</title>
+    <link>https://aymanamin.rbind.io/author/saeed-a.-alghamdi/</link>
+      <atom:link href="https://aymanamin.rbind.io/author/saeed-a.-alghamdi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saeed A. Alghamdi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ayman Ahmed Amin 2018 - 2023</copyright><lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aymanamin.rbind.io/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Saeed A. Alghamdi</title>
+      <link>https://aymanamin.rbind.io/author/saeed-a.-alghamdi/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Identification Procedure for Triple Seasonal Autoregressive Models</title>
+      <link>https://aymanamin.rbind.io/publication/2023-identificationtsar/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://aymanamin.rbind.io/publication/2023-identificationtsar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
