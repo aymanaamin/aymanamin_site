@@ -53,4 +53,4 @@ weight: 5
 
 
 
-
+![alt text]('/img/train/stat-train-qr.png')
