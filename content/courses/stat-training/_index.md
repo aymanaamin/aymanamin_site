@@ -20,9 +20,18 @@ weight: 5
 
 
 <p align="right">
- <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> البرنامج الاحصائي spss 20  </a>
+ <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> البرنامج الاحصائي spss 20 x64  </a>
 </p>
 
+
+<p align="right">
+ <a href = "https://t.me/StatisticalAnalysisEgypt/132676"> البرنامج الاحصائي spss 20 x32  </a>
+</p>
+
+
+<p align="right">
+ <a href = "https://getintopc.com/softwares/analytics/ibm-spss-statistics-v26-2019-free-download-7922890/?id=001299380711"> البرنامج الاحصائي spss 26  </a>
+</p>
 
 
 ![QR](/img/train/stat-train-qr.png)
