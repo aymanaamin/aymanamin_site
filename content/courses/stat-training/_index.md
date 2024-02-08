@@ -20,7 +20,7 @@ weight: 5
 
 
 <p align="right">
- <a href = "https://drive.google.com/file/d/18orcpaeENHHlboagtaS4aFT3bhkeiZqt/view?usp=sharing"> دليل ورشة العمل بالبرنامج الاحصائي spss 20 x64  </a>
+ <a href = "https://drive.google.com/file/d/18orcpaeENHHlboagtaS4aFT3bhkeiZqt/view?usp=sharing"> دليل ورشة العمل بالبرنامج الاحصائي </a>
 </p>
 
 
