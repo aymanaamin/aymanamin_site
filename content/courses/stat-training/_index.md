@@ -15,8 +15,13 @@ weight: 5
 ---
 
 <h1 align="right">
-الإحصاء
+ورشة عمل الاحصاء في دراسات دعم القرار
 </h1>
+
+
+<p align="right">
+ <a href = "https://drive.google.com/file/d/18orcpaeENHHlboagtaS4aFT3bhkeiZqt/view?usp=sharing"> دليل ورشة العمل بالبرنامج الاحصائي spss 20 x64  </a>
+</p>
 
 
 <p align="right">
