@@ -25,6 +25,18 @@ weight: 5
 
 
 <p align="right">
+ <a href = "https://drive.google.com/drive/folders/1oHOWaZISmyNzT9wYkwhfpMWCEic1eOX1?usp=sharing"> بيانات التأمين المستخدمة </a>
+</p>
+
+
+<p align="right">
+ <a href = "https://docs.google.com/spreadsheets/d/1lB1iQQWSqUcztVQBGbvNGPqiTWYgsmCT/edit?usp=sharing&ouid=113278006464868371317&rtpof=true&sd=true"> ملف حساب حجم العينة </a>
+</p>
+
+
+
+
+<p align="right">
  <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> البرنامج الاحصائي spss 20 x64  </a>
 </p>
 
