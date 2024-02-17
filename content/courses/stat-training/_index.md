@@ -51,4 +51,19 @@ weight: 5
 </p>
 
 
+
+<h1 align="right">
+ورشة عمل ادارة البيانات الاحصائية مع جودة البيانات
+</h1>
+
+
+<p align="right">
+ <a href = "https://drive.google.com/file/d/10d2IXXescqzvpLlGwvxjXdGePTdziQ0Z/view?usp=sharing"> دليل ورشة العمل </a>
+</p>
+
+
+
+
+
+
 ![QR](/img/train/stat-train-qr.png)
