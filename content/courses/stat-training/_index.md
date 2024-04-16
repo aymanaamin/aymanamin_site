@@ -15,13 +15,8 @@ weight: 5
 ---
 
 <h1 align="right">
-ورشة عمل الاحصاء في دراسات دعم القرار
+الاحصاء
 </h1>
-
-
-<p align="right">
- <a href = "https://drive.google.com/file/d/18orcpaeENHHlboagtaS4aFT3bhkeiZqt/view?usp=sharing"> دليل ورشة العمل بالبرنامج الاحصائي </a>
-</p>
 
 
 <p align="right">
@@ -48,17 +43,6 @@ weight: 5
 
 <p align="right">
  <a href = "https://getintopc.com/softwares/analytics/ibm-spss-statistics-v26-2019-free-download-7922890/?id=001299380711"> البرنامج الاحصائي spss 26  </a>
-</p>
-
-
-
-<h1 align="right">
-ورشة عمل ادارة البيانات الاحصائية مع جودة البيانات
-</h1>
-
-
-<p align="right">
- <a href = "https://drive.google.com/file/d/10d2IXXescqzvpLlGwvxjXdGePTdziQ0Z/view?usp=sharing"> دليل ورشة العمل </a>
 </p>
 
 
