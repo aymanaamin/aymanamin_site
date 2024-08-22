@@ -1,7 +1,8 @@
 +++
 abstract = "In this paper we use the Gibbs sampling algorithm to present a full Bayesian analysis to multiplicative double seasonal autoregressive (DSAR) models."
 authors = ["Ayman A. Amin"]
-date = "2023-05-15"
+#date = "2023-05-15"
+date = "2024-08-15"
 image_preview = ""
 math = true
 publication_types = ["2"]
