@@ -2,7 +2,7 @@
 bio: My research interests include Bayesian statistics, time series analysis, Statistical Process Control and machine learning.
 education:
   courses:
-  - course: PhD in Applied Statistics and Information Technology
+  - course: PhD in ICT and Applied Statistics 
     institution: Faculty of Science, Engineering, and Technology (FSET), Swinburne University of Technology, Australia
     year: 2014
   - course: MSc in Statistics
@@ -35,7 +35,7 @@ social:
   link: https://scholar.google.com.au/citations?user=PrOetKgAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Ayman_Amin2
+  link: https://www.researchgate.net/profile/Ayman_Amin
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1560-7609
