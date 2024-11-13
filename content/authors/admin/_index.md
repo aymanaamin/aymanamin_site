@@ -35,7 +35,7 @@ social:
   link: https://scholar.google.com.au/citations?user=PrOetKgAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Ayman_Amin
+  link: https://www.researchgate.net/profile/Ayman-Amin
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-1560-7609
