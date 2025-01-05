@@ -2,7 +2,7 @@
 abstract = "In this paper we use the Gibbs sampling algorithm to present a Bayesian prediction of multiplicative triple seasonal autoregressive (TSAR) models."
 
 authors = ["Ayman A. Amin"]
-date = "2024-03-27"
+date = "2025-01-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
