@@ -19,8 +19,25 @@ SPSS التحليل الاحصائي باستخدام برنامج
 </h1>
 
 
+
+
 <p align="right">
- <a href = "https://drive.google.com/drive/folders/1oHOWaZISmyNzT9wYkwhfpMWCEic1eOX1?usp=sharing"> بيانات التأمين المستخدمة </a>
+ <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> تحميل البرنامج الاحصائي من الموقع الرسمي: مطلوب حمل حساب ويمكن استخدام البرنامج فترة تجربة في حالة عدم الشراء. </a>
+</p>
+
+
+
+
+<p align="right">
+ <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> تحميل البرنامج الاحصائي مباشرةً من جوجل درايف (البرنامج الاحصائي spss 20 x64)  </a>
+</p>
+
+
+
+
+
+<p align="right">
+ <a href = "https://drive.google.com/drive/folders/1oHOWaZISmyNzT9wYkwhfpMWCEic1eOX1?usp=sharing"> بيانات التأمين المستخدمة في التدريب. </a>
 </p>
 
 
@@ -31,9 +48,10 @@ SPSS التحليل الاحصائي باستخدام برنامج
 
 
 
-<p align="right">
- <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> البرنامج الاحصائي spss 20 x64  </a>
-</p>
+<h2 align="right">
+مصادر اخري للحصول علي البرنامج الاحصائي
+</h2>
+
 
 
 <p align="right">
@@ -44,9 +62,6 @@ SPSS التحليل الاحصائي باستخدام برنامج
 <p align="right">
  <a href = "https://getintopc.com/softwares/analytics/ibm-spss-statistics-v26-2019-free-download-7922890/?id=001299380711"> البرنامج الاحصائي spss 26  </a>
 </p>
-
-
-
 
 
 
