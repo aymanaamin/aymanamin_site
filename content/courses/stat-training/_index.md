@@ -47,6 +47,13 @@ SPSS التحليل الاحصائي باستخدام برنامج
 
 
 
+<p align="right">
+ <a href = "https://drive.google.com/file/d/1s9G8PqFJgw3xCv-UQRBuJ5c8Lma2z66v/view?usp=sharing"> ملف اختبارات الفروض </a>
+</p>
+
+
+
+
 
 <h2 align="right">
 مصادر اخري للحصول علي البرنامج الاحصائي
