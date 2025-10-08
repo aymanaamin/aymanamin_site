@@ -12,14 +12,14 @@ selected = false
 title = "Full Bayesian Analysis of Triple Seasonal Autoregressive Models"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://doi.org/10.1111/anzs.12427"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = ""
+url = "https://doi.org/10.1111/anzs.12427"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

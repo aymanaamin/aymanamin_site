@@ -12,7 +12,7 @@ selected = false
 title = "A Kullback-Leibler divergence based comparison of approximate Bayesian estimations of ARMA models"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "http://www.csam.or.kr/journal/view.html?uid=2004&&vmd=Full"
 url_project = ""
 url_slides = ""
 url_video = ""
