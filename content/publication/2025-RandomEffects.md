@@ -12,8 +12,8 @@ selected = false
 title = "Testing Random Effects in Linear Mixed Regression Models"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
-url_project = "https://safq.journals.ekb.eg/article_446529.html"
+url_pdf = "https://safq.journals.ekb.eg/article_446529.html"
+url_project = ""
 url_slides = ""
 url_video = ""
 
