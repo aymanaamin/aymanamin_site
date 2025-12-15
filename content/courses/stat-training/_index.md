@@ -15,14 +15,14 @@ weight: 5
 ---
 
 <h1 align="right">
-SPSS التحليل الاحصائي باستخدام برنامج 
+SPSS التحليل الاحصائي الذكي باستخدام برنامج
 </h1>
 
 
 
 
 <p align="right">
- <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> تحميل البرنامج الاحصائي من الموقع الرسمي: مطلوب حمل حساب ويمكن استخدام البرنامج فترة تجربة في حالة عدم الشراء </a>
+ <a href = "https://drive.google.com/file/d/1hLdwxwCZLFiqnKfcOP98CpKgoKCnF8wS/view?usp=sharing"> تحميل البرنامج الاحصائي من الموقع الرسمي: مطلوب عمل حساب ويمكن استخدام البرنامج فترة تجربة في حالة عدم الشراء </a>
 </p>
 
 
