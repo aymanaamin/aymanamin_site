@@ -25,7 +25,7 @@ interests:
 organizations:
 - name: Faculty of Commerce, Menoufia University, Egypt
   url: http://www.menofia.edu.eg/Home/en
-role: Associate Professor of Statistics
+role: Professor of Applied Statistics
 social:
 - icon: envelope
   icon_pack: fas
