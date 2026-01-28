@@ -28,6 +28,16 @@ experience:
 - company: Faculty of Commerce, Menoufia University
   company_url: ""
   date_end: ""
+  date_start: "2026-01-27"
+  description: |-
+    Responsibilities include:
+    * Teaching Statistics and Mathematics courses for undergraduate and postgraduate students.
+    * Conducting some fascinating research in time series analysis and related applications.
+  location: Egypt
+  title: Professor of Applied Statistics
+- company: Faculty of Commerce, Menoufia University
+  company_url: 
+  date_end: "2026-01-26"
   date_start: "2020-10-27"
   description: |-
     Responsibilities include:
@@ -35,14 +45,14 @@ experience:
     * Conducting some fascinating research in time series analysis and related applications.
     * Head of Statistics and Opinion Polls Unit in the Measurement and Evaluation Project.
   location: Egypt
-  title: Associate Professor
+  title: Associate Professor of Applied Statistics
 - company: Faculty of Commerce, Menoufia University
   company_url: ""
   date_end: "2020-10-26"
   date_start: "2019-09-28"
   description: Teaching Statistics and Mathematics courses.
   location: Egypt
-  title: Assistant Professor
+  title: Assistant Professor of Statistics
 - company: FSET, Swinburne University of Technology
   company_url: "http://www.swinburne.edu.au/"
   date_end: "2017-02-15"
