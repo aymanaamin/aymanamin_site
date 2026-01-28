@@ -19,12 +19,12 @@ type: docs
 ---
 
 
-# Associate Professor of Statistics
+# Professor of Applied Statistics
 
-**@ Menoufia University [October 2020 - To Date]**
+**@ Menoufia University [January 2026 - To Date]**
 
-I am an **Associate Professor of Statistics** in Department of Statistics, Insurance and Mathematics at Faculty of Commerce, Menoufia University, Egypt. 
-Before that, I worked in the same department as an **Assistant Professor of Statistics** from September 2015 to September 2020, and also as a **Teaching Assistant** from May 2007 to April 2010. The courses I have been teaching for undergraduate include:
+I am an **Professor of Applied Statistics** in Department of Statistics, Insurance and Mathematics at Faculty of Commerce, Menoufia University, Egypt. 
+Before that, I worked in the same department as an **Associate Professor of Applied Statistics** from October 2020 to January 2026, an **Assistant Professor of Statistics** from September 2015 to September 2020, and a **Teaching Assistant** from May 2007 to April 2010. The courses I have been teaching for undergraduate include:
 
 - Pure Mathematics		
 - Applied Mathematics		
