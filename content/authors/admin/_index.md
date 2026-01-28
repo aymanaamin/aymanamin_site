@@ -57,13 +57,13 @@ user_groups:
 - Principal Investigators
 ---
 
-I am an **Associate Professor of Statistics** at <a href = "http://www.menofia.edu.eg/Home/en">Faculty of Commerce, Menoufia University, Egypt</a>, with a background on mathematics, theoretical statistics, Bayesian statistics, time series analysis, machine learning, software quality attributes forecasting and statistical programming, along with excellent academic and research experiences. 
+I am a **Professor of Applied Statistics** at <a href = "http://www.menofia.edu.eg/Home/en">Faculty of Commerce, Menoufia University, Egypt</a>, with a background on mathematics, theoretical statistics, Bayesian statistics, time series analysis, machine learning, software quality attributes forecasting and statistical programming, along with excellent academic and research experiences. 
 
 I was awarded the PhD from <a href = "http://www.swin.edu.au/">Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia</a> (in January 2014), and the MSc in Statistics (with excellent degree in October 2009) and the BSc in Statistics and Social Science Computing (with excellent degree in June 2006) from <a href = "http://www.feps.eun.eg/">Faculty of Economics and Political Science (FEPS), Cairo University</a>, Egypt. 
 
 Most of my research work is in Bayesian statistics, time series analysis and forecasting methods. 
 I always learn new things related to statistics and data science, and I love working with researchers and data scientists at global level.   
-Since 2020, I am acting Head of Department of Insurance, Mathematics and Statistics at Faculty of Commerce, Menoufia University, Egypt. 
+I have been acting Head of Department of Mathematics, Insurance and Statistics at Faculty of Commerce, Menoufia University, Egypt, for about four years, from November 2020 to January 2025. 
 Also, I deliver statistical consultations and training to various national and international institutions. 
 For more details about me, please visit my [Biography](/bio/).
 
