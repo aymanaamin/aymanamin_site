@@ -2,7 +2,7 @@
 abstract = "In this paper we present a full Bayesian analysis of multiplicative seasonal autoregressive models under SMN errors."
 
 authors = ["Ayman A. Amin"]
-date = "2025-10-08"
+date = "2026-01-08"
 image_preview = ""
 math = true
 publication_types = ["2"]
