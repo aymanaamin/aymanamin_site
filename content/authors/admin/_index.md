@@ -25,7 +25,7 @@ interests:
 organizations:
 - name: Faculty of Commerce, Menoufia University, Egypt
   url: http://www.menofia.edu.eg/Home/en
-role: Professor of Applied Statistics
+role: Full Professor of Applied Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -57,7 +57,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a **Professor of Applied Statistics** at <a href = "http://www.menofia.edu.eg/Home/en">Faculty of Commerce, Menoufia University, Egypt</a>, with a background on mathematics, theoretical statistics, Bayesian statistics, time series analysis, machine learning, software quality attributes forecasting and statistical programming, along with excellent academic and research experiences. 
+I am a **Full Professor of Applied Statistics** at <a href = "http://www.menofia.edu.eg/Home/en">Faculty of Commerce, Menoufia University, Egypt</a>, with a background on mathematics, theoretical statistics, Bayesian statistics, time series analysis, machine learning, software quality attributes forecasting and statistical programming, along with excellent academic and research experiences. 
 
 I was awarded the PhD from <a href = "http://www.swin.edu.au/">Faculty of Science, Engineering and Technology, Swinburne University of Technology, Australia</a> (in January 2014), and the MSc in Statistics (with excellent degree in October 2009) and the BSc in Statistics and Social Science Computing (with excellent degree in June 2006) from <a href = "http://www.feps.eun.eg/">Faculty of Economics and Political Science (FEPS), Cairo University</a>, Egypt. 
 
