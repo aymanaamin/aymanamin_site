@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://keybase.io/aymanamin
 superuser: true
-title: Ayman A. Amin
+title: Ayman Ahmed Amin
 user_groups:
 - Principal Investigators
 ---
