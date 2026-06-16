@@ -34,7 +34,7 @@ experience:
     * Teaching Statistics and Mathematics courses for undergraduate and postgraduate students.
     * Conducting some fascinating research in time series analysis and related applications.
   location: Egypt
-  title: Professor of Applied Statistics
+  title: Full Professor of Applied Statistics
 - company: Faculty of Commerce, Menoufia University
   company_url: 
   date_end: "2026-01-26"
